@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bonusTag
+  - deadTag
+  - woundTag
+  - lifeTag
+  - bulletTag
+  - bumpTag
+  - sureken
+  - katana
+  - right
+  - left
+  - TriggerPlatform
+  - step
+  - save1
+  - save2
+  - FinishEnd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - bump
+  - elements
+  - enemy
+  - bird
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backround
+    uniqueID: 852008921
+    locked: 0
+  - name: pers
+    uniqueID: 252776185
+    locked: 0
+  - name: platforms
+    uniqueID: 4119500245
+    locked: 0
+  - name: cloud
+    uniqueID: 3657202399
+    locked: 0
+  - name: elementsPlatform
+    uniqueID: 3945768173
+    locked: 0
+  - name: bonus
+    uniqueID: 1061334589
+    locked: 0
+  - name: character
+    uniqueID: 2371974637
+    locked: 0
+  - name: enemy
+    uniqueID: 3783208353
+    locked: 0
+  - name: elepentRB
+    uniqueID: 3237202821
+    locked: 0
+  - name: boat
+    uniqueID: 3097470285
+    locked: 0
+  - name: water
+    uniqueID: 1794673131
+    locked: 0
